@@ -45,10 +45,12 @@ macOS: brew install gtk+3
 
 تثبيت مكتبات Go المطلوبة:
 
-bash
-go get github.com/gotk3/gotk3
-go get github.com/btcsuite/btcd
-go get github.com/btcsuite/btcwallet
+# bash
+
+# go get github.com/gotk3/gotk3
+# go get github.com/btcsuite/btcd
+# go get github.com/btcsuite/btcwallet
+
 ملاحظات للاستخدام في الإنتاج
 الأمان:
 
